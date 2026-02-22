@@ -12,7 +12,7 @@ DATASET_PATH = r"H:\My Drive\Colab Notebooks\datasets\gaussian_filtered_images\g
 
 IMG_SIZE = (224, 224)
 BATCH_SIZE = 32
-EPOCHS = 25
+EPOCHS = 1 
 NUM_CLASSES = 5
 
 # ===============================

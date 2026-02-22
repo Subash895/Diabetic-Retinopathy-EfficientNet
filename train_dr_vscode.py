@@ -200,4 +200,5 @@ plt.title(f"Predicted: {pred_class} ({confidence:.3f})")
 plt.show()
 
 print("Prediction:", pred_class)
-print("Confidence:", round(confidence, 3))train_dr_vscode.py
+print("Confidence:", round(confidence, 3))
+train_dr_vscode.py
